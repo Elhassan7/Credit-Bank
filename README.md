@@ -8,4 +8,4 @@ Scikit Learn, Pandas (for Machine Leraning Model) and Flask (for API) installed
 3- templates - This folder contains the HTML template to allow administrator of bank to enter loan detail and displays the predicted if he can accept give loan or reject it .
 
 ## Demo of result
-![plot](demo of results.PNG)
+![alt text](https://github.com/Elhassan7/Credit-Bank/blob/bb193f0726e661496bf95795c7110885433f63e9/demo_of_result.PNG)
